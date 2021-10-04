@@ -7,15 +7,16 @@ const Course = (props) => {
     return (
     <Col>
       <Card>
-        <Card.Img variant="top" src={img}/>
+        <Card.Img   variant="top" src={img}/>
         <Card.Body>
           <Card.Title>Course name: {name}</Card.Title>
           <Card.Text>
           Time start: {time}
           </Card.Text>
-          <h2>Lession: {lession}</h2> 
-          <h2>Teacher: {teacher}</h2>
-          <h2>Course Fee: {cost}</h2>
+          <h3>Lession: {lession}</h3> 
+          <h3>Teacher: {teacher}</h3>
+          <h5>Course Fee: {cost}</h5>
+          <button className="btn btn-outline-info btn-lg">Enroll Now</button>
         </Card.Body>
       </Card>
     </Col>

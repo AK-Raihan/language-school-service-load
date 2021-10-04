@@ -2,7 +2,7 @@
 
     {
         "code": 4126,
-        "name": "English",
+        "name": "Spoken English",
         "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
         "lession": 30,
         "time": "6.30Pm",
@@ -11,7 +11,7 @@
       },
     {
         "code": 4127,
-        "name": "Chines",
+        "name": "Spoken Chines",
         "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
         "lession": 20,
         "time": "7.30Pm",
@@ -20,7 +20,7 @@
       },
     {
         "code": 4128,
-        "name": "France",
+        "name": "Spoken Francis",
         "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
         "lession": 25,
         "time": "8.30Pm",
@@ -29,7 +29,7 @@
       },
     {
         "code": 4129,
-        "name": "Bangli",
+        "name": "Spoken Bangli",
         "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
         "lession": 20,
         "time": "5.30Pm",
@@ -38,7 +38,7 @@
       },
     {
         "code": 4130,
-        "name": "Hindi",
+        "name": "Spoken Hindi",
         "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
         "lession": 22,
         "time": "4.30Pm",
@@ -47,7 +47,7 @@
       },
     {
         "code": 4131,
-        "name": "japanse",
+        "name": "Spoken japanse",
         "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
         "lession": 15,
         "time": "3.30Pm",
@@ -56,7 +56,7 @@
       },
     {
         "code": 4132,
-        "name": "Spanish",
+        "name": "Spoken Spanish",
         "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
         "lession": 28,
         "time": "2.30Pm",
@@ -74,7 +74,7 @@
       },
     {
         "code": 4134,
-        "name": "Arobic",
+        "name": " Spoken Arobic",
         "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
         "lession": 30,
         "time": "12.30Pm",
@@ -83,7 +83,7 @@
       },
     {
         "code": 4135,
-        "name": "Urdu",
+        "name": "Spoken Urdu",
         "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
         "lession": 26,
         "time": "10.30Pm",
@@ -92,7 +92,7 @@
       },
     {
         "code": 4136,
-        "name": "Kurian",
+        "name": "Spoken Kurian",
         "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
         "lession": 26,
         "time": "9.30Pm",

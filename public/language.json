@@ -2,8 +2,8 @@
 
   {
       "code": 4126,
-      "name": "English",
-      "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
+      "name": "Spoken English",
+      "img" :"https://i.ibb.co/6vWVQwf/img-11.jpg",
       "lession": 30,
       "time": "6.30Pm",
       "teacher": "Sam Johnson",
@@ -11,8 +11,8 @@
     },
   {
       "code": 4127,
-      "name": "Chines",
-      "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
+      "name": "Spoken Chines",
+      "img" :"https://i.ibb.co/d6qCMbL/img-10.jpg",
       "lession": 20,
       "time": "7.30Pm",
       "teacher": "Ching Chung",
@@ -20,8 +20,8 @@
     },
   {
       "code": 4128,
-      "name": "France",
-      "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
+      "name": "Spoken Francis",
+      "img" :"https://i.ibb.co/txGMZkv/img-12.jpg",
       "lession": 25,
       "time": "8.30Pm",
       "teacher": "Jhon Tham",
@@ -29,8 +29,8 @@
     },
   {
       "code": 4129,
-      "name": "Bangli",
-      "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
+      "name": "Spoken Bangli",
+      "img" :"https://i.ibb.co/h8DDKK9/img-14.jpg",
       "lession": 20,
       "time": "5.30Pm",
       "teacher": "Assadujjaman",
@@ -38,8 +38,8 @@
     },
   {
       "code": 4130,
-      "name": "Hindi",
-      "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
+      "name": "Spoken Hindi",
+      "img" :"https://i.ibb.co/DVK2hKR/img-15.jpg",
       "lession": 22,
       "time": "4.30Pm",
       "teacher": "Rahit Sharma",
@@ -47,8 +47,8 @@
     },
   {
       "code": 4131,
-      "name": "japanse",
-      "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
+      "name": "Spoken japanse",
+      "img" :"https://i.ibb.co/4YLHvdk/img-16.jpg",
       "lession": 15,
       "time": "3.30Pm",
       "teacher": "Shang too",
@@ -56,8 +56,8 @@
     },
   {
       "code": 4132,
-      "name": "Spanish",
-      "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
+      "name": "Spoken Spanish",
+      "img" :"https://i.ibb.co/xHzzmJ5/img-20.jpg",
       "lession": 28,
       "time": "2.30Pm",
       "teacher": "Serjio Ramush",
@@ -66,7 +66,7 @@
   {
       "code": 4133,
       "name": "Kids English",
-      "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
+      "img" :"https://i.ibb.co/dLBL44G/img-13.jpg",
       "lession": 20,
       "time": "1.30Pm",
       "teacher": "Robart helo",
@@ -74,8 +74,8 @@
     },
   {
       "code": 4134,
-      "name": "Arobic",
-      "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
+      "name": "Spoken Arobic",
+      "img" :"https://www.publicdiplomacycouncil.org/wp-content/uploads/2019/02/Saudistudents2-2.jpg",
       "lession": 30,
       "time": "12.30Pm",
       "teacher": "Abdullah",
@@ -83,20 +83,29 @@
     },
   {
       "code": 4135,
-      "name": "Urdu",
-      "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
+      "name": "Spoken Urdu",
+      "img" :"https://im.rediff.com/news/2011/nov/09hatred04.jpg",
       "lession": 26,
-      "time": "10.30Pm",
+      "time": "10.30Am",
       "teacher": "Imran Khan",
       "cost": "$30"
     },
   {
       "code": 4136,
-      "name": "Kurian",
-      "img" :"https://www.theindependentbd.com/assets/news_images/Riaz-returns.jpg",
+      "name": "Spoken Kurian",
+      "img" :"https://media.istockphoto.com/photos/korean-university-student-reading-a-book-picture-id601927866",
       "lession": 26,
-      "time": "9.30Pm",
+      "time": "9.30Am",
       "teacher": "Kim jong Un",
       "cost": "$35"
+    },
+  {
+      "code": 4137,
+      "name": "Spoken Austria",
+      "img" :"https://www.dmsmigration.com/wp-content/uploads/2018/05/student-visa.jpg",
+      "lession": 23,
+      "time": "8.30Am",
+      "teacher": "Tam Jordan",
+      "cost": "$45"
     }
 ]

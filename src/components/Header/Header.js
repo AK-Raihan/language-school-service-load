@@ -6,9 +6,9 @@ import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
-<Navbar bg="light" expand="lg">
+<Navbar bg="light" expand="lg" className="fixed-top">
   <Container>
-    <Navbar.Brand href="#" className="fs-3 fw-bold text-info"><span><i class="fas fa-book-reader"></i></span> Language School</Navbar.Brand>
+    <Navbar.Brand href="#" className="fs-3 fw-bold text-info"><span><i class="fas fa-book-reader "></i></span> Language School</Navbar.Brand>
     <Navbar.Toggle aria-controls="navbarScroll" />
     <Navbar.Collapse id="navbarScroll">
       <Nav
@@ -20,6 +20,7 @@ const Header = () => {
         <NavLink className="me-2 text-decoration-none fw-bolder" to="/about"> About</NavLink>
         <NavLink className="me-2 text-decoration-none fw-bolder" to="/services">Services</NavLink>
         <NavLink className="me-2 text-decoration-none fw-bolder" to="/admission">Admission</NavLink>
+        <NavLink className="me-2 text-decoration-none fw-bolder" to="/notfound">404 Page</NavLink>
       </Nav>
       <Form className="d-flex">
         <FormControl

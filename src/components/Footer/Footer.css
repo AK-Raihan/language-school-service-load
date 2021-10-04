@@ -1,6 +1,6 @@
 .footer-container{
-    background: rgb(107, 168, 247);
-    padding: 10px 0;
+    background: rgb(26, 125, 253);
+    padding: 40px 0;
     font-size: 20px;
     position: fixed;
     height: 50px;
@@ -8,5 +8,6 @@
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
-
 }
+
+
