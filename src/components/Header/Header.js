@@ -8,7 +8,7 @@ const Header = () => {
     return (
 <Navbar bg="light" expand="lg" className="fixed-top">
   <Container>
-    <Navbar.Brand href="#" className="fs-3 fw-bold text-info"><span><i class="fas fa-book-reader "></i></span> Language School</Navbar.Brand>
+    <Navbar.Brand href="#" className="fs-3 fw-bold text-info"><span><i className="fas fa-book-reader "></i></span> Language School</Navbar.Brand>
     <Navbar.Toggle aria-controls="navbarScroll" />
     <Navbar.Collapse id="navbarScroll">
       <Nav

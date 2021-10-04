@@ -1,12 +1,12 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
+import './Course.css'
 
 const Course = (props) => {
     const{name, img, lession, time, teacher, cost}=props.course
-    console.log(props)
     return (
-    <Col>
-      <Card>
+    <Col >
+      <Card className="service-item">
         <Card.Img   variant="top" src={img}/>
         <Card.Body>
           <Card.Title>Course name: {name}</Card.Title>

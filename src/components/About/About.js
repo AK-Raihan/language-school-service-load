@@ -16,10 +16,10 @@ const About = () => {
                     <p className="fs-5">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, distinctio. loren5
                     Lorem ipsum dolor sit amet.</p>
                     <div className="about-item fs-5 fw-bolder text-start">
-                        <li><span><i class="far fa-check-circle"></i></span> Full lifetime access</li>
-                        <li> <span><i class="far fa-check-circle"></i></span> 20+ downloadable resources</li>
-                        <li> <span><i class="far fa-check-circle"></i></span> Certificate of completion</li>
-                        <li> <span><i class="far fa-check-circle"></i></span> Free Trial 7 Days</li>
+                        <li><span><i className="far fa-check-circle"></i></span> Full lifetime access</li>
+                        <li> <span><i className="far fa-check-circle"></i></span> 20+ downloadable resources</li>
+                        <li> <span><i className="far fa-check-circle"></i></span> Certificate of completion</li>
+                        <li> <span><i className="far fa-check-circle"></i></span> Free Trial 7 Days</li>
                         <button className="btn btn-info fs-5 fw-bolder ms-5 text-secondary mt-3">Enroll Now</button>
                     </div>
                 </Col>

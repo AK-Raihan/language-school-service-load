@@ -1,0 +1,8 @@
+.service-item{
+    background: rgb(41, 119, 184);
+    box-shadow: 8px 4px 15px 2px #000000;
+    transition: .5s;
+}
+.service-item:hover{
+    transform: scale(1,.95);
+}
