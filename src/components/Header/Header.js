@@ -8,12 +8,12 @@ const Header = () => {
     return (
 <Navbar bg="light" expand="lg">
   <Container>
-    <Navbar.Brand href="#" className="fs-3 fw-bold text-info">Language School</Navbar.Brand>
+    <Navbar.Brand href="#" className="fs-3 fw-bold text-info"><span><i class="fas fa-book-reader"></i></span> Language School</Navbar.Brand>
     <Navbar.Toggle aria-controls="navbarScroll" />
     <Navbar.Collapse id="navbarScroll">
       <Nav
         className="me-auto my-2 my-lg-0 "
-        style={{ maxHeight: '100px' }}
+        style={{" maxHeight": '100px' }}
         navbarScroll
       >
         <NavLink className="me-2 text-decoration-none fw-bolder" to="/home"> Home</NavLink>

@@ -24,7 +24,7 @@ function App() {
         <Route path="/about">
           <About></About>
         </Route>
-        <Route path="/service">
+        <Route exact path="/services">
           <Services></Services>
         </Route>
         <Route path="/admission">
@@ -33,8 +33,8 @@ function App() {
         <Route path="*">
           <NotFound></NotFound>
         </Route>
-
       </Switch>
+      <Footer></Footer>
       </Router>
     </div>
   );
