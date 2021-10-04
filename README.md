@@ -1,6 +1,6 @@
 This project was bootstrapped with [Language School](https://language-school-asmnt-9.netlify.app/).
 
-# Website name: Language School. This is create by react router, react bootstrap.
+# Website name: Language School. This is create by react router-react bootstrap.
 
 ##Feature
 
