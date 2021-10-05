@@ -5,6 +5,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { NavLink } from 'react-router-dom';
 
 const Header = () => {
+
+ const activeStyle={
+    fontWeight: "bold",
+    color: "red"
+  }
     return (
 <Navbar bg="light" expand="lg" className="fixed-top">
   <Container>
@@ -16,11 +21,11 @@ const Header = () => {
         style={{" maxHeight": '100px' }}
         navbarScroll
       >
-        <NavLink className="me-2 text-decoration-none fw-bolder" to="/home"> Home</NavLink>
-        <NavLink className="me-2 text-decoration-none fw-bolder" to="/about"> About</NavLink>
-        <NavLink className="me-2 text-decoration-none fw-bolder" to="/services">Services</NavLink>
-        <NavLink className="me-2 text-decoration-none fw-bolder" to="/admission">Admission</NavLink>
-        <NavLink className="me-2 text-decoration-none fw-bolder" to="/notfound">404 Page</NavLink>
+        <NavLink activeStyle={activeStyle} className="me-2 text-decoration-none fw-bolder" to="/home"> Home</NavLink>
+        <NavLink activeStyle={activeStyle} className="me-2 text-decoration-none fw-bolder" to="/about"> About</NavLink>
+        <NavLink activeStyle={activeStyle} className="me-2 text-decoration-none fw-bolder" to="/services">Services</NavLink>
+        <NavLink activeStyle={activeStyle} className="me-2 text-decoration-none fw-bolder" to="/admission">Admission</NavLink>
+        <NavLink activeStyle={activeStyle} className="me-2 text-decoration-none fw-bolder" to="/notfound">404 Page</NavLink>
       </Nav>
       <Form className="d-flex">
         <FormControl
