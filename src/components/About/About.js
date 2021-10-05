@@ -4,12 +4,12 @@ import "./About.css"
 
 const About = () => {
     return (
-        <div>
+        <div className="pb-5">
             <div className="about-container text-white">
             <h1>About us</h1>
             </div>
 
-            <div className="container mt-5">
+            <div className="container my-5 py-5">
             <Row >
                 <Col className="about-content text-start">
                     <h1>What We Do & Our Aim</h1>
