@@ -13,7 +13,7 @@ const Services = () => {
         .then(data=>setCourses(data))
     },[])
     return (
-        <div className="service-container py-5 mb-5">
+        <div className="service-container py-5">
             <div className="container pt-4">
             <h1 className="mb-5 mt-1">Our services is here</h1>
             <Row xs={1} md={3} className="g-4">
