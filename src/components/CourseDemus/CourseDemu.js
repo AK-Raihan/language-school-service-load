@@ -20,6 +20,7 @@ const CourseDemu = (props) => {
             <button className="btn btn-outline-info btn-lg">Enroll Now</button>
           </Card.Body>
         </Card>
+
       </Col>
     );
 };
