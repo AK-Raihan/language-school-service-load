@@ -1,6 +1,5 @@
 import React from 'react';
 import ServiceDemus from '../ServiceDemus/ServiceDemus';
-import Services from '../Services/Services';
 import './Home.css'
 
 const Home = () => {
